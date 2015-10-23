@@ -58,3 +58,6 @@ footer.page-footer {
 .cursive-font {
     font-family:inherit;
 }
+.destinationemail {
+    display: none;
+}
